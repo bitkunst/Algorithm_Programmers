@@ -4,7 +4,10 @@
     "description": "<div align=\"center\">",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "level:1": "node Lv.1/${NUM}/${NUM}_solution.js",
+        "level:2": "node Lv.2/${NUM}/${NUM}_solution.js",
+        "level:3": "node Lv.3/${NUM}/${NUM}_solution.js"
     },
     "repository": {
         "type": "git",
