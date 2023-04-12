@@ -15,3 +15,18 @@ const result1 = solution([1, 1, 3, 3, 0, 1, 1]);
 const result2 = solution([4, 4, 4, 3, 3]);
 console.log('result1', result1);
 console.log('result2', result2);
+
+//* Using Pointers
+function findUniqueValues(arr) {
+    let i = 0;
+    for (let j = 1; j < arr.length; j++) {
+        if (arr[i] !== arr[j]) {
+            i++;
+            arr[i] = arr[j];
+        }
+    }
+
+    const answer = arr.slice(0, i + 1);
+
+    return answer;
+}

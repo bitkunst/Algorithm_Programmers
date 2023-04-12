@@ -7,3 +7,10 @@
 <br>
 
 ### Comment
+
+Pointer를 사용한 findUniqueValues() 함수 추가.
+<br>
+프로그래머스 효율성 테스트 결과
+
+-   기존 solution : 90MB
+-   findUniqueValues() : 83MB
