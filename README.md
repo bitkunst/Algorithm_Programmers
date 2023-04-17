@@ -20,5 +20,7 @@
 | 230413 | 프로그래머스 | 연습문제    | Level.1 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)         | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12916) |
 | 230414 | 프로그래머스 | 연습문제    | Level.1 | [문자열 내림차순으로 배치하기\*](https://programmers.co.kr/learn/courses/30/lessons/12917) | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12917) |
 | 230414 | 프로그래머스 | 연습문제    | Level.1 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)             | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12918) |
+| 230417 | 프로그래머스 | 연습문제    | Level.1 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)           | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12919) |
+| 230417 | 프로그래머스 | 연습문제    | Level.1 | [소수 찾기\*](https://programmers.co.kr/learn/courses/30/lessons/12921)                    | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12921) |
 
 </div>
