@@ -16,3 +16,9 @@ function solution(n) {
 
     return answer;
 }
+
+const result1 = solution(10);
+const result2 = solution(5);
+
+console.log('result1', result1);
+console.log('result2', result2);
