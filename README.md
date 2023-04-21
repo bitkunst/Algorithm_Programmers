@@ -29,5 +29,8 @@
 | 230419 | 프로그래머스 | 연습문제    | Level.1 | [이상한 문자 만들기\*](https://programmers.co.kr/learn/courses/30/lessons/12930)           | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12930) |
 | 230420 | 프로그래머스 | 연습문제    | Level.1 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)                  | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12931) |
 | 230420 | 프로그래머스 | 연습문제    | Level.1 | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)    | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12932) |
+| 230421 | 프로그래머스 | 연습문제    | Level.1 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)     | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12933) |
+| 230421 | 프로그래머스 | 연습문제    | Level.1 | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)               | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12934) |
+| 230421 | 프로그래머스 | 연습문제    | Level.1 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)          | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12935) |
 
 </div>
