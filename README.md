@@ -32,5 +32,7 @@
 | 230421 | 프로그래머스 | 연습문제    | Level.1 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)     | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12933) |
 | 230421 | 프로그래머스 | 연습문제    | Level.1 | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)               | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12934) |
 | 230421 | 프로그래머스 | 연습문제    | Level.1 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)          | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12935) |
+| 230424 | 프로그래머스 | 연습문제    | Level.1 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)                    | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12937) |
+| 230424 | 프로그래머스 | 연습문제    | Level.1 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)        | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12940) |
 
 </div>
