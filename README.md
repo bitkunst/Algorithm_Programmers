@@ -34,5 +34,10 @@
 | 230421 | 프로그래머스 | 연습문제    | Level.1 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)          | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12935) |
 | 230424 | 프로그래머스 | 연습문제    | Level.1 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)                    | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12937) |
 | 230424 | 프로그래머스 | 연습문제    | Level.1 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)        | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12940) |
+| 230425 | 프로그래머스 | 연습문제    | Level.1 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)                    | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12943) |
+| 230425 | 프로그래머스 | 연습문제    | Level.1 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)                    | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12944) |
+| 230425 | 프로그래머스 | 연습문제    | Level.1 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)                      | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12947) |
+| 230425 | 프로그래머스 | 연습문제    | Level.1 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)             | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12948) |
+| 230425 | 프로그래머스 | 연습문제    | Level.1 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)                    | [✍️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12950) |
 
 </div>
