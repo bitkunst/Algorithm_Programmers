@@ -45,5 +45,6 @@
 | 230427 | 프로그래머스 | Summer/Winter Coding | Level.1 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)                           | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12982) |
 | 230427 | 프로그래머스 | 2018 KAKAO / Bitwise | Level.1 | [[1차] 비밀지도\*](https://programmers.co.kr/learn/courses/30/lessons/17681)               | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/17681) |
 | 230428 | 프로그래머스 | 2018 KAKAO / Stack   | Level.1 | [[1차] 다트 게임\*](https://programmers.co.kr/learn/courses/30/lessons/17682)              | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/17682) |
+| 230428 | 프로그래머스 | 해시                 | Level.1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)             | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42576) |
 
 </div>
