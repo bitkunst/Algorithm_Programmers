@@ -18,6 +18,7 @@ function desc(a, b) {
     }
 }
 
+// cf) 12915
 const arr1 = [6, 5, 8, 2, 4, 1, 9, 7];
 const arr2 = [6, 5, 8, 2, 4, 1, 9, 7];
 const ascArr = arr1.sort(asc);
