@@ -47,5 +47,6 @@
 | 230428 | 프로그래머스 | 2018 KAKAO / Stack   | Level.1 | [[1차] 다트 게임\*](https://programmers.co.kr/learn/courses/30/lessons/17682)              | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/17682) |
 | 230428 | 프로그래머스 | 해시                 | Level.1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)             | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42576) |
 | 230501 | 프로그래머스 | 정렬                 | Level.1 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)                        | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42748) |
+| 230502 | 프로그래머스 | 완전탐색             | Level.1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)                       | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42840) |
 
 </div>
