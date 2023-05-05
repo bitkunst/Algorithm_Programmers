@@ -49,6 +49,6 @@
 | 230501 | 프로그래머스 | 정렬                 | Level.1 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)                        | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42748) |
 | 230502 | 프로그래머스 | 완전탐색             | Level.1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)                       | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42840) |
 | 230503 | 프로그래머스 | Greedy               | Level.1 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                         | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42862) |
-| 230504 | 프로그래머스 | 2019 KAKAO           | Level.1 | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)                         | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42889) |
+| 230504 | 프로그래머스 | 2019 KAKAO           | Level.1 | [실패율⚓️](https://programmers.co.kr/learn/courses/30/lessons/42889)                      | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42889) |
 
 </div>
