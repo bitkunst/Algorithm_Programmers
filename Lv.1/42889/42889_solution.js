@@ -21,7 +21,6 @@ function solution(N, stages) {
     }
 
     const resultArr = Object.entries(failurePerStage).sort(sortMethod);
-    console.log('resultArr', resultArr);
 
     for (const result of resultArr) {
         answer.push(parseInt(result[0]));
@@ -36,7 +35,7 @@ function sortMethod(a, b) {
     } else if (a[1] > b[1]) {
         return -1;
     } else {
-        const result = asc(a[0], b[0]);
+        const result = asc(parseInt(a[0]), parseInt(b[0]));
         return result;
     }
 }
@@ -53,7 +52,7 @@ function asc(a, b) {
 
 const test1 = solution(5, [2, 1, 2, 6, 2, 4, 3, 3]);
 const test2 = solution(4, [4, 4, 4, 4, 5]);
-const test3 = solution(5, [1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 5, 5]);
+const test3 = solution(5, [1, 1, 1, 5]);
 console.log('test1', test1);
 console.log('test2', test2);
 console.log('test3', test3);
