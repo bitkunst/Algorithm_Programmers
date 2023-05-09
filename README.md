@@ -50,6 +50,7 @@
 | 230502 | 프로그래머스 | 완전탐색             | Level.1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)                       | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42840) |
 | 230503 | 프로그래머스 | Greedy               | Level.1 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                         | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42862) |
 | 230504 | 프로그래머스 | 2019 KAKAO           | Level.1 | [실패율⚓️](https://programmers.co.kr/learn/courses/30/lessons/42889)                      | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/42889) |
-| 230508 | 프로그래머스 | 2019 KAKAO           | Level.1 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)           | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/64061) |
+| 230508 | 프로그래머스 | 2019 KAKAO / Stack   | Level.1 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)           | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/64061) |
+| 230509 | 프로그래머스 | 2020 KAKAO           | Level.1 | [키패드 누르기⚓️](https://programmers.co.kr/learn/courses/30/lessons/67256)               | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/67256) |
 
 </div>
