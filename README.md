@@ -53,5 +53,6 @@
 | 230508 | 프로그래머스 | 2019 KAKAO / Stack   | Level.1 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)           | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/64061) |
 | 230509 | 프로그래머스 | 2020 KAKAO           | Level.1 | [키패드 누르기⚓️](https://programmers.co.kr/learn/courses/30/lessons/67256)               | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/67256) |
 | 230510 | 프로그래머스 | 월간 코드 챌린지     | Level.1 | [두 개 뽑아서 더하기\*](https://programmers.co.kr/learn/courses/30/lessons/68644)          | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/68644) |
+| 230511 | 프로그래머스 | 월간 코드 챌린지     | Level.1 | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)                   | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/68935) |
 
 </div>
