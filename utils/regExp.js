@@ -6,3 +6,5 @@ let newStr2 = str.replace(/a/gi, 1); // 대소문자 구분 X
 
 console.log(newStr); // B1nAnA
 console.log(newStr2); // B1n1n1
+
+// 72410
