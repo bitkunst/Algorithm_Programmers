@@ -8,3 +8,4 @@ console.log(newStr); // B1nAnA
 console.log(newStr2); // B1n1n1
 
 // 72410
+// 81301
