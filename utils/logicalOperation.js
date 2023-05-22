@@ -4,8 +4,8 @@
     - 둘 다 'falsy' 값이라면 마지막 피연산자를 반환
 */
 
-console.log(undefined || null || NaN);
-console.log(5 || 2 || 1);
+console.log(undefined || null || NaN); // output: NaN
+console.log(5 || 2 || 1); // output: 5
 
 // JavaScript에서 'falsy' 값
 /**
