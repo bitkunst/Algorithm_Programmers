@@ -62,5 +62,7 @@
 | 230519 | 프로그래머스 | 2021 KAKAO / RegExp  | Level.1 | [숫자 문자열과 영단어\*](https://programmers.co.kr/learn/courses/30/lessons/81301)         | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/81301) |
 | 230522 | 프로그래머스 | 위클리 챌린지        | Level.1 | [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)           | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/82612) |
 | 230522 | 프로그래머스 | 월간 코드 챌린지     | Level.1 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)               | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/86051) |
+| 230523 | 프로그래머스 | 완전탐색             | Level.1 | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)                   | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/86491) |
+| 230523 | 프로그래머스 | 월간 코드 챌린지     | Level.1 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)      | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/87389) |
 
 </div>
