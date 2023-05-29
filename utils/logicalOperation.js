@@ -16,3 +16,13 @@ console.log(5 || 2 || 1); // output: 5
  * undefined
  * NaN
  */
+
+// ?? :  Nullish coalescing operator
+// 왼쪽 피연산자가 null 또는 undefined 인 경우 오른쪽 피연산자를 반환한다.
+// 만약 왼쪽 피연산자가 null 또는 undefined가 아니라면, 왼쪽 피연산자를 반환한다.
+let value = null;
+let defaultValue = 'Default Value';
+console.log(value ?? defaultValue); // output: "Default Value"
+
+value = 'Actual Value';
+console.log(value ?? defaultValue); // output: "Actual Value"

@@ -22,3 +22,4 @@ console.log(getCombinations([1, 2, 3, 4, 5], 3));
 
 // 12977
 // 68644
+// 131705

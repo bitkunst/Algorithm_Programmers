@@ -67,5 +67,6 @@
 | 230524 | 프로그래머스 | 2022 KAKAO           | Level.1 | [신고 결과 받기⚓️](https://programmers.co.kr/learn/courses/30/lessons/92334)              | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/92334)  |
 | 230525 | 프로그래머스 | 2022 KAKAO           | Level.1 | [성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666)            | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/118666) |
 | 230526 | 프로그래머스 | 연습문제             | Level.1 | [숫자 짝꿍](https://programmers.co.kr/learn/courses/30/lessons/131128)                     | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/131128) |
+| 230529 | 프로그래머스 | 연습문제             | Level.1 | [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705)                        | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/131705) |
 
 </div>
