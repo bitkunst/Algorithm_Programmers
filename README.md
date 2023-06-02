@@ -71,5 +71,7 @@
 | 230530 | 프로그래머스 | 연습문제             | Level.1 | [콜라 문제](https://programmers.co.kr/learn/courses/30/lessons/132267)                     | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/132267) |
 | 230531 | 프로그래머스 | 연습문제 / RegExp    | Level.1 | [옹알이 (2)](https://programmers.co.kr/learn/courses/30/lessons/133499)                    | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/133499) |
 | 230601 | 프로그래머스 | 연습문제 / Stack     | Level.1 | [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502)                 | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/133502) |
+| 230602 | 프로그래머스 | 연습문제             | Level.1 | [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240)              | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/134240) |
+| 230602 | 프로그래머스 | 연습문제             | Level.1 | [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808)                     | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/135808) |
 
 </div>
