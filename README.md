@@ -73,5 +73,6 @@
 | 230601 | 프로그래머스 | 연습문제 / Stack     | Level.1 | [햄버거 만들기](https://programmers.co.kr/learn/courses/30/lessons/133502)                 | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/133502) |
 | 230602 | 프로그래머스 | 연습문제             | Level.1 | [푸드 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240)              | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/134240) |
 | 230602 | 프로그래머스 | 연습문제             | Level.1 | [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808)                     | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/135808) |
+| 230605 | 프로그래머스 | 연습문제             | Level.1 | [기사단원의 무기](https://programmers.co.kr/learn/courses/30/lessons/136798)               | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/136798) |
 
 </div>
