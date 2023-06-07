@@ -75,5 +75,6 @@
 | 230602 | 프로그래머스 | 연습문제             | Level.1 | [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808)                     | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/135808) |
 | 230605 | 프로그래머스 | 연습문제             | Level.1 | [기사단원의 무기](https://programmers.co.kr/learn/courses/30/lessons/136798)               | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/136798) |
 | 230606 | 프로그래머스 | 연습문제             | Level.1 | [명예의 전당 (1)](https://programmers.co.kr/learn/courses/30/lessons/138477)               | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/138477) |
+| 230607 | 프로그래머스 | 연습문제 / Stack     | Level.1 | [문자열 나누기](https://programmers.co.kr/learn/courses/30/lessons/140108)                 | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/140108) |
 
 </div>
