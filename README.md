@@ -82,5 +82,6 @@
 | 230613 | 프로그래머스 | 연습문제             | Level.1 | [둘만의 암호](https://programmers.co.kr/learn/courses/30/lessons/155652)                   | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/155652) |
 | 230614 | 프로그래머스 | 연습문제 / Queue     | Level.1 | [카드 뭉치](https://programmers.co.kr/learn/courses/30/lessons/159994)                     | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/159994) |
 | 230615 | 프로그래머스 | 연습문제             | Level.1 | [대충 만든 자판](https://programmers.co.kr/learn/courses/30/lessons/160586)                | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/160586) |
+| 230616 | 프로그래머스 | 연습문제             | Level.1 | [덧칠하기](https://programmers.co.kr/learn/courses/30/lessons/161989)                      | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/161989) |
 
 </div>
