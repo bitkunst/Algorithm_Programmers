@@ -18,5 +18,20 @@ function solution(n) {
     return answer;
 }
 
-const test = solution(8);
+function dpSolution(n) {
+    let answer = 0;
+    const tile = [1, 2];
+
+    // 다이나믹 프로그래밍(DP)
+    for (let i = 2; i < n; i++) {
+        // a(n+2) = a(n+1) + a(n)
+        tile[i] = (tile[i - 1] + tile[i - 2]) % 1000000007;
+    }
+
+    answer = tile[n - 1];
+
+    return answer;
+}
+
+const test = dpSolution(4);
 console.log('test', test);
