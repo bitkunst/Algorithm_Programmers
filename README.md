@@ -91,5 +91,6 @@
 | 230627 | 프로그래머스 | 연습문제 / (DFS/BFS)           | Level.2 | [게임 맵 최단거리⚓️](https://programmers.co.kr/learn/courses/30/lessons/1844)             | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/1844)   |
 | 230628 | 프로그래머스 | 연습문제 / Dynamic Programming | Level.2 | [2 x n 타일링⚓️](https://programmers.co.kr/learn/courses/30/lessons/12900)                | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12900)  |
 | 230703 | 프로그래머스 | Stack / Queue                  | Level.2 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                    | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12909)  |
+| 230704 | 프로그래머스 | 연습문제                       | Level.2 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)                   | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.1/12911)  |
 
 </div>
