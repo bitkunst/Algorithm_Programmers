@@ -94,5 +94,6 @@
 | 230704 | 프로그래머스 | 연습문제             | Level.2 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)                   | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12911)  |
 | 230705 | 프로그래머스 | 연습문제 / DP        | Level.2 | [땅따먹기⚓️](https://programmers.co.kr/learn/courses/30/lessons/12913)                    | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12913)  |
 | 230706 | 프로그래머스 | 연습문제 / DP        | Level.2 | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)                      | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12914)  |
+| 230707 | 프로그래머스 | 연습문제 / DP        | Level.2 | [3 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902)                   | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12902)  |
 
 </div>
