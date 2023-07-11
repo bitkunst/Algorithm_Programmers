@@ -8,4 +8,5 @@
 
 ### Comment
 
+-   Dynamic Programming,,
 -   너무 어렵다,, 진짜로,,
