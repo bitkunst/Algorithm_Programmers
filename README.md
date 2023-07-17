@@ -98,5 +98,6 @@
 | 230711 | 프로그래머스 | 연습문제 / DP        | Level.2 | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)          | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12905)  |
 | 230713 | 프로그래머스 | 연습문제             | Level.2 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)                    | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12924)  |
 | 230714 | 프로그래머스 | 연습문제             | Level.2 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)                | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12939)  |
+| 230717 | 프로그래머스 | 연습문제             | Level.2 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)                  | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12941)  |
 
 </div>
