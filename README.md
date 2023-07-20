@@ -100,6 +100,6 @@
 | 230714 | 프로그래머스 | 연습문제             | Level.2 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)                | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12939)  |
 | 230717 | 프로그래머스 | 연습문제             | Level.2 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)                  | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12941)  |
 | 230718 | 프로그래머스 | 연습문제 / DP        | Level.2 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)                    | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12945)  |
-| 230719 | 프로그래머스 | 연습문제             | Level.2 | [숫자 블록](https://programmers.co.kr/learn/courses/30/lessons/12923)                      | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12923)  |
+| 230720 | 프로그래머스 | 연습문제             | Level.2 | [숫자 블록](https://programmers.co.kr/learn/courses/30/lessons/12923)                      | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12923)  |
 
 </div>
