@@ -7,3 +7,6 @@
 <br>
 
 ### Comment
+
+-   Time Complexity를 제대로 신경쓰지 않아 효율성 테스트에서 시간 초과가 많이 발생하였다,,
+-   Stack 자료구조를 활용해서 Time Complexity 해결,,
