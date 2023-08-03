@@ -1,46 +1,43 @@
 function solution(N, road, K) {
-    const answerStack = [];
-    const timeArr = [];
+    // N+1 크기의 인접 리스트를 생성하여 각 마을에 연결된 도로 정보를 저장
+    const adj = Array.from(Array(N + 1), () => []);
+    // 각 마을까지의 최단 거리를 저장하는 배열을 초기화 (무한대로 설정)
+    const distances = Array(N + 1).fill(Infinity);
 
-    // road 배열 정렬하기
-    for (const item of road) {
-        if (item[0] < item[1]) continue;
-        else {
-            const temp = item[0];
-            item[0] = item[1];
-            item[1] = temp;
-        }
+    // 주어진 도로 정보를 인접 리스트에 추가
+    for (let [a, b, c] of road) {
+        adj[a].push({ to: b, cost: c }); // a 마을에서 b 마을로 가는 도로 정보
+        adj[b].push({ to: a, cost: c }); // 양방향이므로 b 마을에서 a 마을로 가는 정보도 추가
     }
 
-    function countTime(currentTarget, road, time, goal) {
-        let sumOfTime = time;
+    // 우선순위 큐로 사용할 배열. 시작점은 1번 마을.
+    const pq = [{ vertex: 1, dist: 0 }];
+    // 1번 마을 자신까지의 거리는 0
+    distances[1] = 0;
 
-        if (currentTarget === 1) {
-            timeArr.push([sumOfTime, goal]);
-            return;
-        }
+    // 우선순위 큐가 빌 때까지 반복
+    while (pq.length > 0) {
+        // 가장 거리가 짧은 마을부터 처리하기 위해 정렬
+        pq.sort((a, b) => a.dist - b.dist);
+        // 가장 거리가 짧은 마을 정보 추출
+        const { vertex, dist } = pq.shift();
 
-        for (const item of road) {
-            let tempTime = sumOfTime;
-            if (item[1] === currentTarget) {
-                tempTime += item[2];
-                const newTarget = item[0];
-                countTime(newTarget, road, tempTime, goal);
+        // 이미 처리된 마을은 스킵
+        if (distances[vertex] < dist) continue;
+
+        // 해당 마을에 연결된 도로 정보를 순회
+        for (let edge of adj[vertex]) {
+            const nextDist = dist + edge.cost; // 현재 마을을 거쳐서 다음 마을로 가는 거리
+            // 더 짧은 경로를 발견하면 정보 업데이트
+            if (nextDist < distances[edge.to]) {
+                distances[edge.to] = nextDist;
+                pq.push({ vertex: edge.to, dist: nextDist }); // 큐에 추가
             }
         }
     }
 
-    for (let i = N; i >= 1; i--) {
-        countTime(i, road, 0, i);
-    }
-
-    for (const item of timeArr) {
-        // 이미 추가된 마을은 skip
-        if (answerStack[answerStack.length - 1] === item[1]) continue;
-        if (item[0] <= K) answerStack.push(item[1]);
-    }
-
-    return answerStack.length;
+    // 계산된 거리 정보 중 K 이하인 거리만 카운트하여 반환
+    return distances.filter((dist) => dist <= K).length;
 }
 
 const test1 = solution(
