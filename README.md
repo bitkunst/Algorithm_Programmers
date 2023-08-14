@@ -109,5 +109,6 @@
 | 230802 | 프로그래머스 | Summer/Winter Coding / Dijkstra | Level.2 | [배달⚓️](https://programmers.co.kr/learn/courses/30/lessons/12978)                        | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12978)  |
 | 230810 | 프로그래머스 | Summer/Winter Coding            | Level.2 | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)               | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12980)  |
 | 230811 | 프로그래머스 | Summer/Winter Coding            | Level.2 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)                  | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12981)  |
+| 230814 | 프로그래머스 | 2017 팁스타운                   | Level.2 | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)                    | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12985)  |
 
 </div>
