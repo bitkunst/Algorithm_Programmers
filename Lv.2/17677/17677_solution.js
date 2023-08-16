@@ -27,12 +27,16 @@ function solution(str1, str2) {
     let unionCount = 0;
     let intersectionCount = 0;
 
-    str1Arr.forEach((v) => {
-        if (str2Arr.includes(v)) intersectionCount++;
-        else unionCount++;
-    });
+    for (const v of str1Arr) {
+        const index = str2Arr.indexOf(v);
+        if (index === -1) continue;
 
-    unionCount += str2Arr.length;
+        intersectionCount++;
+        // 공통 원소 제거
+        str2Arr.splice(index, 1);
+    }
+
+    unionCount = str1Arr.length + str2Arr.length;
 
     return Math.floor((intersectionCount / unionCount) * 65536);
 }
