@@ -112,5 +112,6 @@
 | 230814 | 프로그래머스 | 2017 팁스타운                   | Level.2 | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)                    | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/12985)  |
 | 230815 | 프로그래머스 | 2018 KAKAO                      | Level.2 | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)          | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/17677)  |
 | 240124 | 프로그래머스 | 2018 KAKAO                      | Level.2 | [[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)              | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/17679)  |
+| 240125 | 프로그래머스 | 2018 KAKAO                      | Level.2 | [[1차] 캐시⚓️](https://programmers.co.kr/learn/courses/30/lessons/17680)                  | [✏️](https://github.com/bitkunst/Algorithm_Programmers/tree/main/Lv.2/17680)  |
 
 </div>
